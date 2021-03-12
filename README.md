@@ -1,4 +1,4 @@
-### 👋 Hi, I am on dimasgithub
+### 👋 Hi, I am @DimasGithub
 I am a technology development enthusiast on web development focusing on backend engineering, and also learning frontend technology.
 I like to use open-source technology and use the linux operating system.
 
